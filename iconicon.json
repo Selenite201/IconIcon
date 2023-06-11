@@ -1,10 +1,10 @@
 {
-	"name": "Parasol图标",
+	"name": "iconicon",
 	"description": "v1.0",
 	"icons": [
 		{
 			"name": "parasol",
-			"url": "https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol.png"
+			"url": "https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol1.png"
 		},
 		{
 			"name": "parasol2",
@@ -12,7 +12,7 @@
 		},
 				{
 			"name": "Miracle",
-			"url": "https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle.png"
+			"url": "https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle1.png"
 		},
 				{
 			"name": "Miracle2",
