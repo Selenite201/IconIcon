@@ -1,22 +1,12 @@
 {
 	"name": "iconicon",
 	"description": "v1.0",
-	"icons": [
-		{
-			"name": "parasol",
-			"url": "https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol1.png"
-		},
-		{
-			"name": "parasol2",
-			"url": "https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol2.png"
-		},
-		{
-			"name": "Miracle",
-			"url": "https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle1.png"
-		},
-		{
-			"name": "Miracle2",
-			"url": "https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle2.png"
-		}
-	]
+"icons":
+    [
+	{"name":"Emby", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol1.png"},
+	{"name":"Emby1", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol2.png"},
+	{"name":"Jellyfin", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle1.png"},
+	{"name":"Plex", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle2.png"}
+
+    ]
 }
