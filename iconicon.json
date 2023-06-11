@@ -3,10 +3,10 @@
 	"description": "v1.0",
 "icons":
     [
-	{"name":"Parasol1", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol.png"},
-	{"name":"Parasol2", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol2.png"},
-	{"name":"Miracle1", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle.png"},
-	{"name":"Miracle2", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle2.png"}
+	{"name":"Parasol1", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol-square.png"},
+	{"name":"Parasol2", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol-Circle.png"},
+	{"name":"Miracle1", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle-square.png"},
+	{"name":"Miracle2", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle-Circle.png"}
 
     ]
 }
