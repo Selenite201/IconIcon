@@ -1,12 +1,14 @@
 {
 	"name": "iconicon",
-	"description": "v1.01",
+	"description": "v1.02",
 "icons":
     [
 	{"name":"Parasol1", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol-1.png"},
 	{"name":"Parasol2", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol-2.png"},
 	{"name":"Parasol3", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol-3.png"},
 	{"name":"Parasol4", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Parasol-4.png"},
+	{"name":"BYG1", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/BYG-1.png"},
+	{"name":"BYG2", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/BYG-2.png"},
 	{"name":"Miracle1", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle-1.png"},
 	{"name":"Miracle2", "url":"https://raw.githubusercontent.com/Selenite201/IconIcon/main/Miracle-2.png"}
 
